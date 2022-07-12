@@ -19,5 +19,6 @@ public class Product
     public double Price { get; set; }
 
     public List<OrderProduct> OrderProducts { get; set; }
+
 }
 
